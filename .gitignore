@@ -1,0 +1,5 @@
+node_modules/
+db.txt
+estructura.sql
+package-lock.json
+db.js
